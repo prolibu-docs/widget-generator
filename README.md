@@ -13,3 +13,9 @@ npm run deploy
 
 
 [https://github.com/prolibu-docs/Prolibu-Schemas]https://github.com/prolibu-docs/Prolibu-Schemas
+
+
+add to layoput
+```html
+{{{renderWidget this 'calculadoraTarifa'}}}
+```
