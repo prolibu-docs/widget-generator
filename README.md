@@ -7,3 +7,6 @@ npm run check
 ```
 - dev
 - deploy
+```cmd
+npm run deploy
+```
